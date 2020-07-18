@@ -1,0 +1,5 @@
+what you need
+
+1.7.1 - stem
+4.0.4 - mitmproxy
+2.22.0 - requests / socks
